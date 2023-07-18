@@ -31,5 +31,5 @@ img#ADA {margin-left: 1000px; width: 250px; height: 350px; border: 8px groove bl
     p#frameytext {margin-left: 20px;}
     span.links, span.linksii {border: none; text-decoration: #000 underline 4px; font-size: 16px; padding: 0; margin: auto;}
     h1 {font-size: 18px; border: ridge 7px white; margin-right: 100px; margin-left: 100px; background-color: #000; }
-    img#ADA {position: relative; display: inline-block; height: 80%; width: 60%; margin: 100px;}
+    img#ADA {display:none;}
 }
